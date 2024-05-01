@@ -5,17 +5,17 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        ans = []
-        
-        for i in range(len(nums1)):
-            for j in range(len(nums2)):
-                if nums1[i] == nums2[j]:
-                    while (j < len(nums2)):
-                        if nums2[j] > nums1[i]:
-                            ans.append(nums2[j])
-                            break
-                        j=j+1
-                    else:
-                        ans.append(-1)
-        return ans
+        nums1_dict = {num:idx for idx, num in enumerate(nums1)}
+        res = [-1]*len(nums1)
+
+        for i in range(len(nums2)):
+            if(nums2[i] not in nums1_dict):
+                continue
+            for j in range(i+1, len(nums2)):
+                if nums2[j] > nums2[i]:
+                    idx = nums1_dict[nums2[i]]
+                    res[idx] = nums2[j]
+                    break
+
+        return res
         
