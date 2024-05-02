@@ -5,17 +5,18 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        nums1_dict = {num:idx for idx, num in enumerate(nums1)}
+        nums1_dict = {n:i for i, n in enumerate(nums1)}
         res = [-1]*len(nums1)
 
+        stack = []
         for i in range(len(nums2)):
-            if(nums2[i] not in nums1_dict):
-                continue
-            for j in range(i+1, len(nums2)):
-                if nums2[j] > nums2[i]:
-                    idx = nums1_dict[nums2[i]]
-                    res[idx] = nums2[j]
-                    break
+            cur = nums2[i]
+            while stack and cur > stack[-1]:
+                val = stack.pop()
+                idx = nums1_dict[val]
+                res[idx] = cur
+            if cur in nums1_dict:
+                stack.append(cur)
 
         return res
         
