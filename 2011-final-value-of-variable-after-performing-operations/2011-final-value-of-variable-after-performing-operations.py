@@ -6,9 +6,9 @@ class Solution(object):
         """
         res = 0
         for operator in operations:
-            if operator == "--X" or operator == "X--":
+            if "-" in operator:
                 res=res-1
-            elif operator == "X++" or operator == "++X":
+            elif "+" in operator:
                 res=res+1
         return res
         
