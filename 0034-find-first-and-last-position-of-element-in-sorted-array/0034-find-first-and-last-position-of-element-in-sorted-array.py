@@ -6,7 +6,6 @@ class Solution(object):
         :rtype: List[int]
         """
         ans = [-1, -1]
-        exists = False
         for i in range(len(nums)):
             
             if nums[i] == target:
