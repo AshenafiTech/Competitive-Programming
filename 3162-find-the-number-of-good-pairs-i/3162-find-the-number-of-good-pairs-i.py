@@ -6,13 +6,13 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        res = 0
+        r = 0
         
         for i in range(len(nums1)):
             for j in range(len(nums2)):
                 if nums1[i]%(nums2[j]*k) == 0:
-                    res=res+1
+                    r=r+1
 
 
-        return res
+        return r
         
