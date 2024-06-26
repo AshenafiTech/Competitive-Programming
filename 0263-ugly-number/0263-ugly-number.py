@@ -1,25 +1,19 @@
 class Solution:
     def isUgly(self, n: int) -> bool:
-        if n < 1:
-            return False
-        def p_factors(n):
-            k = 2
-            factors = [1]
-
-            while k**2 <= n:
-                if n % k == 0:
-                    factors.append(k)
-                    n //= k
-                else:
-                    k+=1
-            if n > 1:
-                factors.append(n)
-            return factors
-
-        prime_factors = p_factors(n)
         limit = [1, 2, 3, 5]
 
-        for num in prime_factors:
-            if num not in limit:
+        if n < 1:
+            return False
+        k = 2
+        while k**2 <= n:
+            if n % k == 0:
+                if k not in limit:
+                    return False
+                n //= k
+            else:
+                k+=1
+        if n > 1:
+            if n not in limit:
                 return False
+
         return True
