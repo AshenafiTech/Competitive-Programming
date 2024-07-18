@@ -4,23 +4,22 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        count = 0
-        s.strip()
-        new = s.lower()
-        newstring = ""
-        for i in new:
-            if i.isalnum():
-                
-                newstring+=i
-        old = len(newstring)        
-        m = len(newstring) -1 
-        for i in range(m +1):
-            
-
-            if newstring[i] is newstring[m-i]:
-                
-                count+=1
-        if count == old:
-            return True
-        else:
-            return False
+        i = 0
+        j = len(s)-1
+        
+        def alNum(c):
+            return (ord('A') <= ord(c) <= ord('Z') or
+                    ord('a') <= ord(c) <= ord('z') or
+                    ord('0') <= ord(c) <= ord('9') )
+        while i<j:
+            if not alNum(s[i]):
+                i+=1
+                continue
+            if not alNum(s[j]):
+                j-=1
+                continue
+            if s[i].lower() != s[j].lower():
+                return False
+            i+=1
+            j-=1
+        return True
