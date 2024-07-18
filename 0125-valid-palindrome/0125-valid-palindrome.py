@@ -6,16 +6,11 @@ class Solution(object):
         """
         i = 0
         j = len(s)-1
-        
-        def alNum(c):
-            return (ord('A') <= ord(c) <= ord('Z') or
-                    ord('a') <= ord(c) <= ord('z') or
-                    ord('0') <= ord(c) <= ord('9') )
         while i<j:
-            if not alNum(s[i]):
+            if not s[i].isalnum():
                 i+=1
                 continue
-            if not alNum(s[j]):
+            if not s[j].isalnum():
                 j-=1
                 continue
             if s[i].lower() != s[j].lower():
