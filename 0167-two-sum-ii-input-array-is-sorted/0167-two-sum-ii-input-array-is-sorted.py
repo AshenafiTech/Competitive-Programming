@@ -10,16 +10,11 @@ class Solution(object):
         r = len(numbers)-1
         res = []
         while l < r:
-            if numbers[l] + numbers[r] > target:
+            currSum = numbers[l] + numbers[r]
+            if currSum > target:
                 r-=1
-                continue
-            if numbers[l] + numbers[r] < target:
+            elif currSum < target:
                 l+=1
-                continue
-            if numbers[l] + numbers[r] == target:
-                res.append(l+1)
-                res.append(r+1)
-                break
-                
-        return res
+            else:
+                return [l+1, r+1]
             
