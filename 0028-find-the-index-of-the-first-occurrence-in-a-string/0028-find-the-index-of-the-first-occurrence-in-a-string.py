@@ -8,7 +8,7 @@ class Solution(object):
         n = len(haystack)
         m = len(needle)
         
-        for i in range(n-m+1):
+        for i in range(n):
             if haystack[i:i+m] == needle:
                 return i
         
