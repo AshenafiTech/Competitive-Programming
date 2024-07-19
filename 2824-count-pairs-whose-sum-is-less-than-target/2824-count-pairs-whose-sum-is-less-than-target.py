@@ -5,15 +5,15 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        i, j = 0, 1
-        pair_count = 0
+        nums.sort()
         
-        while i < len(nums) - 1:
-            if nums[i] + nums[j] < target:
-                pair_count+=1
-            j+=1
-            
-            if j==len(nums):
-                i+=1
-                j=i+1
-        return pair_count
+        l, r = 0, len(nums)-1
+        count = 0
+        
+        while l < r:
+            if nums[l] + nums[r] < target:
+                count+=(r-l)
+                l+=1
+            else:
+                r-=1
+        return count
