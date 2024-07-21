@@ -8,6 +8,7 @@ class Solution:
         for i in range(k, len(nums)):
             curr+=nums[i]
             curr-=nums[i-k]
-            maxi = max(curr, maxi)
+            if curr > maxi:
+                maxi = curr
 
         return maxi/k
