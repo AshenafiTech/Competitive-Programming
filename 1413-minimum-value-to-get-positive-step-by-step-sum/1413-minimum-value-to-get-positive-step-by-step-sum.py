@@ -1,11 +1,12 @@
 class Solution:
     def minStartValue(self, nums: List[int]) -> int:
-        prefix = []
+        min_sum = float('inf')
         curr = 0
         for num in nums:
             curr+=num
-            prefix.append(curr)
+            if curr < min_sum:
+                min_sum = curr
+                
 
-        m = min(prefix) 
-        startValue = max(1, 1-m)
+        startValue = max(1, 1-min_sum)
         return startValue
