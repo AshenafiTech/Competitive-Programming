@@ -3,12 +3,17 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        for i in range(len(nums)):
-            min_idx = i
+        current, start, end = 0, 0, len(nums)-1
 
-            for j in range(i+1, len(nums)):
-                if nums[j] < nums[min_idx]:
-                    min_idx = j
-
-            nums[i], nums[min_idx] = nums[min_idx], nums[i]
+        while current <= end:
+            if nums[current] == 0:
+                nums[start], nums[current] = nums[current], nums[start]
+                start+=1
+                current+=1
+            elif nums[current] == 1:
+                current+=1
+            else:
+                nums[current], nums[end] = nums[end], nums[current]
+                end-=1
+        
             
