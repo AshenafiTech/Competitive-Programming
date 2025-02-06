@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0661-image-smoother](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0661-image-smoother) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
@@ -29,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
