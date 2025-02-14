@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0633-sum-of-square-numbers](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
