@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0661-image-smoother](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0661-image-smoother) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
 |  |
@@ -49,4 +50,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
