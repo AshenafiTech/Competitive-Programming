@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0054-spiral-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0661-image-smoother](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0661-image-smoother) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0054-spiral-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0661-image-smoother](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0661-image-smoother) |
 ## Two Pointers
 |  |
@@ -71,4 +73,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3195-separate-black-and-white-balls](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
