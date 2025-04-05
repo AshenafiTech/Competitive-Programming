@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [3195-separate-black-and-white-balls](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 ## Design
 |  |
@@ -81,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
