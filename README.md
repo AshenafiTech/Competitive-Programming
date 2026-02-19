@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Matrix
 |  |
 | ------- |
