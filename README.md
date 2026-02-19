@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0661-image-smoother](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0661-image-smoother) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1528-shuffle-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1528-shuffle-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0054-spiral-matrix) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
