@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2007-find-original-array-from-doubled-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2007-find-original-array-from-doubled-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2553-separate-the-digits-in-an-array) |
+| [3527-find-the-most-common-response](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3527-find-the-most-common-response) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2007-find-original-array-from-doubled-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2007-find-original-array-from-doubled-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3527-find-the-most-common-response) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3527-find-the-most-common-response) |
 ## String
 |  |
 | ------- |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1528-shuffle-string) |
 | [3195-separate-black-and-white-balls](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3527-find-the-most-common-response) |
 ## Design
 |  |
 | ------- |
