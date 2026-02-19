@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0229-majority-element-ii) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0633-sum-of-square-numbers](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
