@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0229-majority-element-ii](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0661-image-smoother](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0661-image-smoother) |
@@ -25,12 +26,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0229-majority-element-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0012-integer-to-roman) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
@@ -94,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
