@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
