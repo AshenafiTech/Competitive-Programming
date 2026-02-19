@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-sum-of-even-numbers-after-queries](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2553-separate-the-digits-in-an-array) |
 ## Matrix
 |  |
 | ------- |
