@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 ## String
 |  |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1528-shuffle-string) |
 | [3195-separate-black-and-white-balls](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 ## Design
