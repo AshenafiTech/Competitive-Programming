@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0054-spiral-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -151,4 +153,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
