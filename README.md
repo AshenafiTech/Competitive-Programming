@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Recursion
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2007-find-original-array-from-doubled-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2007-find-original-array-from-doubled-array) |
 | [3195-separate-black-and-white-balls](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1657-determine-if-two-strings-are-close) |
