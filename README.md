@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2007-find-original-array-from-doubled-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3527-find-the-most-common-response) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1657-determine-if-two-strings-are-close) |
 | [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2007-find-original-array-from-doubled-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2007-find-original-array-from-doubled-array) |
 ## Counting Sort
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1657-determine-if-two-strings-are-close) |
 | [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3527-find-the-most-common-response) |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1528-shuffle-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1657-determine-if-two-strings-are-close) |
 | [3195-separate-black-and-white-balls](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3527-find-the-most-common-response) |
