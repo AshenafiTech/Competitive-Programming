@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0661-image-smoother](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0661-image-smoother) |
+| [0881-boats-to-save-people](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0881-boats-to-save-people) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1528-shuffle-string](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1528-shuffle-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0633-sum-of-square-numbers](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
+| [0881-boats-to-save-people](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0881-boats-to-save-people) |
 | [3195-separate-black-and-white-balls](https://github.com/AshenafiTech/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0881-boats-to-save-people) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2007-find-original-array-from-doubled-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2007-find-original-array-from-doubled-array) |
@@ -103,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0881-boats-to-save-people](https://github.com/AshenafiTech/Competitive-Programming/tree/master/0881-boats-to-save-people) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1657-determine-if-two-strings-are-close) |
 | [1961-maximum-ice-cream-bars](https://github.com/AshenafiTech/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2007-find-original-array-from-doubled-array](https://github.com/AshenafiTech/Competitive-Programming/tree/master/2007-find-original-array-from-doubled-array) |
